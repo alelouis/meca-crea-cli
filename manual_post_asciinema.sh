@@ -1,0 +1,1 @@
+curl -v -u alelouis:$(cat ~/.config/asciinema/install-id) https://asciinema.org/api/asciicasts -F asciicast=@/tmp/tmp9ariha2d-ascii.cast
